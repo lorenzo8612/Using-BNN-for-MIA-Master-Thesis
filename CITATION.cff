@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Using Approximate Bayesian Neural Networks for Membership Inference"
+authors:
+  - family-names: "Sucameli"
+    given-names: "Lorenzo"
+date-released: 2026-06-18
+url: "https://github.com/lorenzo8612/Using-BNN-for-MIA-Master-Thesis"
+message: "If you use this software, please cite it as shown above."
